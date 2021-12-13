@@ -1,5 +1,3 @@
-package drunkard;
-
 public class drunkard {
 
 	public static void main(String[] args) {
